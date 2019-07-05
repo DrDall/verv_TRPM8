@@ -1,0 +1,13 @@
+
+VCFtools - v0.1.14
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf pyg_TRPM8_no_bot.vcf
+	--hardy
+	--out pyg_TRPM8_no_bot.vcf
+
+After filtering, kept 49 out of 49 Individuals
+Outputting HWE statistics (but only for biallelic loci)
+After filtering, kept 2994 out of a possible 2994 Sites
+Run Time = 0.00 seconds
